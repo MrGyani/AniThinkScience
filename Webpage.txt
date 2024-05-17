@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AniThinkScience</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>AniThinkScience</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#blog">Blog</a></li>
+                <li><a href="#podcast">Podcast</a></li>
+                <li><a href="#youtube">YouTube</a></li>
+                <li><a href="#forum">Forum</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Description about the projects and the people behind AniThinkScience.</p>
+    </section>
+
+    <section id="blog">
+        <h2>Blog</h2>
+        <p>Blog posts will go here.</p>
+    </section>
+
+    <section id="podcast">
+        <h2>Podcast</h2>
+        <p>Podcast links and episodes will go here.</p>
+    </section>
+
+    <section id="youtube">
+        <h2>YouTube</h2>
+        <p>YouTube videos will go here.</p>
+    </section>
+
+    <section id="forum">
+        <h2>Forum</h2>
+        <p>Forum for communications will go here.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 AniThinkScience. All rights reserved.</p>
+    </footer>
+</body>
+</html>
